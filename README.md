@@ -1,8 +1,8 @@
 ### welcome to my coding diary 🙌
 <div align="center"></div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiImJenna&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiImJenna&layout=compact&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiImJenna&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiImJenna&layout=compact&theme=vue-dark)
 
 <div align="center"></div>
 
