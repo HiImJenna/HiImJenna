@@ -1,6 +1,6 @@
 ### welcome to my coding diary 🙌
 
-![header](https://capsule-render.vercel.app/api?wave=rect&height=200&text=my%20Test&fontAlign=70&my=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?wave=rect&height=200&text=my%20coding diary&fontAlign=70&my=00FF00&strokeWidth=3)
 <div align="center"></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiImJenna&show_icons=true&theme=vue-dark)
